@@ -1,0 +1,12 @@
+.t-shirt-card{
+    background-color: rgb(210, 222, 233);
+}
+.t-shirt-card img{
+    width: 90%;
+    height: 300px;
+    padding: 5%;
+}
+.t-shirt-card button{
+    width: 100%;
+    padding: 9px 0px;
+}
